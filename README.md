@@ -24,7 +24,7 @@ This project involved creating an Excel-based dashboard to monitor regional sale
 
 - `My_dashboard.xlsm` – Excel project with Pivot Tables and dashboard  
 - `My_Excel_Dashboard.png` – Screenshot of final dashboard
-- ![My_Excel_Dsahboard](./My_Excel_Dsahboard.png)
+- ![My_Excel_Dsahboard](./My_Excel_Dashboard.png)
 
 ---
 
